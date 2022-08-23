@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
 // edit 2022.8.23
+// tstr 
 
 // Version of Solidity compiler this program was written for
 pragma solidity 0.6.4;

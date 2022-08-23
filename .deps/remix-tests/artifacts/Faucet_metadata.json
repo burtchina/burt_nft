@@ -47,10 +47,10 @@
 	},
 	"sources": {
 		".deps/remix-tests/Faucet.sol": {
-			"keccak256": "0x44e069f1bab485536f4f23a6b5dba18fdc9de8bb00e419ee56a8b0ead671fe99",
+			"keccak256": "0xa3f05eda96791b401bf25a58de30b4035a42e7ac9bd525c27bc1360a0007ed6c",
 			"urls": [
-				"bzz-raw://c396b0dc450931e8dd359052cadedc7195d2e4b16ab31cfd622fa549be0297c0",
-				"dweb:/ipfs/QmV8qnpbDt6ggLzgcp1dkik8m6Lteju7HKQyzw5uprzwT8"
+				"bzz-raw://104098c8a61410b49275b10ce74ac9e968d039a4a3794db6ff5ccf7ff12dc182",
+				"dweb:/ipfs/QmWggq1NyFCmu1oWwqUuKMcF1Pc6sJEYi6z57SaM9xuCP4"
 			]
 		}
 	},
